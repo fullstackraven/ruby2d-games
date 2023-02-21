@@ -6,12 +6,12 @@ In this repo you'll find an assortment of games written in ruby using the awesom
 
 ## Tic-Tac-Toe
 
-[tic-tac-toe](tic-tac-toe/lib/img/tic_tac_toe.gif)
+![tic-tac-toe](tic-tac-toe/lib/img/tic_tac_toe.gif)
 
 ## PONG 
 
-[PONG](pong/lib/img/pong.gif)
+![PONG](pong/lib/img/pong.gif)
 
 ## Mastermind
 
-[Mastermind](mastermind/lib/img/mastermind.gif)
+![Mastermind](mastermind/lib/img/mastermind.gif)

@@ -1,0 +1,18 @@
+---
+secret_word: ANTARCTICA
+correct_guesses:
+- A
+- _
+- _
+- A
+- _
+- _
+- _
+- _
+- _
+- A
+incorrect_guesses:
+- S
+- E
+- L
+- H

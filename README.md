@@ -15,3 +15,7 @@ In this repo you'll find an assortment of games written in ruby using the awesom
 ## Mastermind
 
 ![Mastermind](mastermind/lib/img/mastermind.gif)
+
+## Hangman
+
+![Hangman](hangman/lib/img/hangman.gif)
